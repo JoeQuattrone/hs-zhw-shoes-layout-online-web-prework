@@ -55,5 +55,6 @@
 }
 
 .last-footer-col {
-  clear: left;
+  border: none;
+  width: 33%;
 }

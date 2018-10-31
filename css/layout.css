@@ -23,5 +23,39 @@
 }
 
 /* Posititoning Classes */
+.col-2 {
+  width: 66%;
+  margin-right: 2%;
+  float: left;
+}
+
+.col-3 {
+  width: 32%;
+  margin-right: 2%;
+  float: left;
+}
 
 
+.last-col-3 {
+  width: 32%;
+  float: left;
+  height: 95%;
+}
+
+.archive {
+  margin-bottom: 2%;
+
+}
+
+.footer-col {
+  width: 32%;
+  margin-right: 2%;
+  border-right: solid 1px #999;
+  float: left;
+}
+
+.last-footer-col {
+  border: none;
+  width: 32%;
+  float: left;
+}

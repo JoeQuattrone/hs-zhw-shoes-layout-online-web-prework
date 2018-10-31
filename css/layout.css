@@ -43,3 +43,7 @@
   border: solid 1px red;
 }
 
+.archive {
+  max-height: 100%;
+}
+

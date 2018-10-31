@@ -48,5 +48,7 @@
 }
 
 .footer-col {
+  width: 32%;
+  margin-right: 2%;
   border-right: solid 1px #999;
 }

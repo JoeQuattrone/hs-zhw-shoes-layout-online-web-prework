@@ -57,5 +57,6 @@
 .last-footer-col {
   border: none;
   width: 33%;
+  clear: all;
   float: left;
 }

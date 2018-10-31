@@ -29,6 +29,13 @@
   float: left;
 }
 
+.col-3 {
+  width: 34%;
+  margin-right: 2%;
+  float: left;
+}
+
+
 .last-col-3 {
   width: 34%;
   float: left;

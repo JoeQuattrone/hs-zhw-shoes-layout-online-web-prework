@@ -53,3 +53,7 @@
   border-right: solid 1px #999;
   float: left;
 }
+
+.last-footer-col {
+  clear: left;
+}

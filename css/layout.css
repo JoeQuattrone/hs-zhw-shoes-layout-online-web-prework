@@ -39,5 +39,6 @@
 .last-col-3 {
   width: 28%;
   float: left;
+  max-height: 100%;
 }
 

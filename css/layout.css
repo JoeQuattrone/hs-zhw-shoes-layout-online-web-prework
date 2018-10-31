@@ -47,4 +47,6 @@
 
 }
 
-.footer-col
+.footer-col {
+  border-right: solid 1px #999;
+}
